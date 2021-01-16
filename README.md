@@ -16,8 +16,9 @@ All you have to do is run it!
 ```python
 python api.py
 ```
+## API
+This project uses [Microsoft's Facial recognition API](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/microsoft-face1). Other API's do have a faster response but not as much uptime!
 
-Please make sure to update tests as appropriate.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
