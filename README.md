@@ -14,7 +14,7 @@ git clone https://github.com/EvanBurnett/FaceID
 All you have to do is run it.
 
 ```python
-python api.py
+python FaceID.py
 ```
 ## API
 This project uses [Microsoft's Facial recognition API](https://rapidapi.com/microsoft-azure-org-microsoft-cognitive-services/api/microsoft-face1). Other API's do have a faster response but not as much uptime.
