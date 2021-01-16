@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-print("Please provide the image link! (It should end with .png or .jpg")
+print("Please provide the image link! (It should end with .png or .jpg)")
 
 imgurl = input()
 
